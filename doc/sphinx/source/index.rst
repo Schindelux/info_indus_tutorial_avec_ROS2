@@ -10,6 +10,11 @@ Table des matières
 .. toctree::
    :maxdepth: 3
    :caption: Informatique Industrielle & ROS2
+SiPaPf_info_indus_tutorial documentation
+!!! SCHINDELUX is ON the FLUX !!! 
+Add your content using ``reStructuredText`` syntax. See the
+`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
+documentation for details.
 
    c00_introduction/p00s00_index
    c01_create_and_publish_doc/p01s00_index
